@@ -1,0 +1,50 @@
+
+/*.Heading {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}*/
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    background-color: green;
+    box-sizing: content-box;
+    border-color: brown;
+    border: coral;
+
+}
+p {
+    text-align: centre;
+}
+a {
+    text-decoration:red wavy underline;
+}
+#h1 {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 100;
+}
+#h2 {
+    font-weight: 250;
+}
+#h3 {
+    font-weight: 600;
+}
+#h4 {
+    font-weight:900 ;
+}
+#one {
+    font-family:Cursive,Arial, Helvetica, sans-serif;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+#two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#inner {
+    font-size: 10px;
+}
+#outer {
+    font-size: 25px;
+}

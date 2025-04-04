@@ -1,0 +1,20 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+body {
+    background-image: url("calf_photo.jpg.jpg");
+    background-size: cover;
+
+}
+#box1 {
+    background-image: url("calf_photo.jpg.jpg");
+    background-size: contain;
+}
+#box2 {
+    background-image: url("calf_photo.jpg.jpg");
+    background-size: auto;
+}

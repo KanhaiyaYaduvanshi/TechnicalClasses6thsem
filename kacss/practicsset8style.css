@@ -1,0 +1,17 @@
+.LOADER {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 5px solid #FEE66D;
+    border-top: 5px solid #4ecdc4;
+    animation: sampleloaderanimate 1s ease-in-out 0.0s infinite normal;
+    
+}
+@keyframes sampleloaderanimate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
